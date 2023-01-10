@@ -10,5 +10,13 @@ This new assignment consists of two technical analysis deliverables and a writte
 - Deliverable 3: A written report on the employee database analysis (README.md)
 
 ## Resources
-- Data Source: [city_data.csv](https://github.com/abrodyyy/PyBer_Analysis/blob/main/Resources/city_data.csv), [ride_data.csv](https://github.com/abrodyyy/PyBer_Analysis/blob/main/Resources/ride_data.csv)
-- Software: [Python 3.9.12](https://www.python.org/downloads/release/python-3912/), [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [Jupyter Notebook 6.4.8](https://jupyter-notebook.readthedocs.io/_/downloads/en/v6.4.8/pdf/)
+- Data Source: [departments.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/departments.csv), [dept_emp.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/dept_emp.csv), [dept_manager.csv]https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/dept_manager.csv), [employees.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/employees.csv), [salaries.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/salaries.csv), [titles.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/titles.csv)
+- Software: [PostgreSQL 15.1](https://www.postgresql.org/docs/current/release-15-1.html), [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [Quick DBD, 1.70.2](https://www.quickdatabasediagrams.com)
+
+## Results
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+
+## Summary
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+ - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+ - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
