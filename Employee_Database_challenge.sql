@@ -54,4 +54,4 @@ WHERE (de.to_date = '9999-01-01')
         AND '1965-12-31'
     )
 ORDER BY emp_no;
--- The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv. (5 pt)
+
