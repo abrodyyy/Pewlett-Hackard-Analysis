@@ -8,7 +8,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 - Deliverable 3: A written report on the employee database analysis (README.md)
 
 ## Resources
-- Data Source: [departments.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/departments.csv), [dept_emp.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/dept_emp.csv), [dept_manager.csv]https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/dept_manager.csv), [employees.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/employees.csv), [salaries.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/salaries.csv), [titles.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/titles.csv)
+- Data Source: [departments.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/departments.csv), [dept_emp.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/dept_emp.csv), [dept_manager.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/dept_manager.csv), [employees.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/employees.csv), [salaries.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/salaries.csv), [titles.csv](https://github.com/abrodyyy/Pewlett-Hackard-Analysis/blob/main/Resources/titles.csv)
 - Software: [PostgreSQL 15.1](https://www.postgresql.org/docs/current/release-15-1.html), [pgAdmin 4](https://www.pgadmin.org/download/), [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [Quick DBD, 1.70.2](https://www.quickdatabasediagrams.com)
 
 ## Results
